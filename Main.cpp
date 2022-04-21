@@ -1,5 +1,6 @@
 #include <iostream>
 #include <windows.h>
+
 using namespace std;
 bool loop = true;
 int px = 10, py = 12;
